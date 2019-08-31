@@ -2,6 +2,8 @@
 これは、入力された音声信号をそのまま出力するだけのVST3プラグインのサンプルです。  
 Visual Studio 2019を使ってできるだけ簡単にビルドできるように作っています。
 
+※VSTはSteinberg Media Technologies GmbHの登録商標です。
+
 # サンプルのビルド方法
 ## ビルド環境
 - Windows 10 64bit
